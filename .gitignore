@@ -6,13 +6,12 @@ node_modules
 .pnp.js
 
 # testing
-/coverage
+coverage
 
 # production
 build
 
 # misc
-coverage
 .vscode
 .DS_Store
 .env.local
